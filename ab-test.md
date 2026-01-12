@@ -28,7 +28,6 @@ From a data science perspective, this A/B test follows rigorous experimental des
 **4. Statistical Testing Approach**
 - **Primary Analysis:** Two-sample proportion test (z-test) for binary retention metrics
 - **Significance Level:** α = 0.05 (two-tailed) to control Type I error rate
-- **Effect Size:** Minimum Practical Effect (MPE) of 0.3pp is both statistically detectable and practically meaningful
 
 **5. Assumptions Validation**
 - **Independence:** Each user is independent (no user appears in both groups)
@@ -84,10 +83,6 @@ This experimental design ensures that any observed differences between groups ca
 - **Definition:** Total number of game rounds played by each user (`sum_gamerounds`)
 - **Type:** Continuous (Integer)
 - **Why:** Engagement metrics provide additional context about player behavior. Higher engagement (more rounds played) often correlates with better retention and can indicate whether players are enjoying the game experience more.
-
-## Minimum Practical Effect (MPE)
-
-**MPE: +0.3 percentage points (pp) for day-7 retention**
 
 ## Success Criteria
 

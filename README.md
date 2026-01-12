@@ -122,7 +122,6 @@ This A/B test follows **rigorous experimental design principles**:
 **Primary Analysis:**
 - **Test Type:** Two-sample proportion z-test
 - **Significance Level:** α = 0.05 (two-tailed)
-- **Effect Size:** Minimum Practical Effect (MPE) = 0.3pp
 - **Confidence Intervals:** 95% CI for difference in proportions
 
 **Assumptions Validation:**
@@ -179,7 +178,6 @@ This A/B test follows **rigorous experimental design principles**:
 - **P-value:** 0.001554 (statistically significant)
 
 **Interpretation:**
-- ❌ **MPE Criterion NOT MET** - Treatment performs worse, not better
 - ✅ **Statistically Significant** - Difference is real, not due to chance
 - **Conclusion:** Moving gate to level 40 **decreases** day-7 retention
 

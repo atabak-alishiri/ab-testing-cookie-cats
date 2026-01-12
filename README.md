@@ -5,6 +5,8 @@
 [![Pandas](https://img.shields.io/badge/Pandas-2.0+-green.svg)](https://pandas.pydata.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
+![Cookie Cats Header](img/header.jpg)
+
 > **A comprehensive statistical A/B testing analysis** examining how gate placement affects user retention and engagement in the Cookie Cats mobile game. This project demonstrates end-to-end experimental design, hypothesis testing, and data-driven decision making using real-world game analytics data.
 
 ## 📋 Table of Contents
@@ -28,7 +30,7 @@
 
 ## 🎯 Project Overview
 
-This project presents a **rigorous statistical analysis** of an A/B test conducted on **Cookie Cats**, a popular mobile puzzle game by Tactile Entertainment. The experiment evaluated whether moving the first monetization "gate" from level 30 to level 40 would improve player retention and engagement.
+This project presents a **statistical analysis** of an A/B test conducted on **Cookie Cats**, a popular mobile puzzle game by Tactile Entertainment. The experiment evaluated whether moving the first monetization "gate" from level 30 to level 40 would improve player retention and engagement.
 
 **Project Highlights:**
 - ✅ **90,189 users** analyzed across two experimental groups
@@ -85,7 +87,7 @@ The product team hypothesized that **delaying the first gate** would allow playe
 
 ### Experimental Design
 
-This A/B test follows **rigorous experimental design principles**:
+This A/B test follows **experimental design principles**:
 
 #### 1. Randomization & Assignment
 - Users randomly assigned to groups upon installation

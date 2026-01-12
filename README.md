@@ -524,18 +524,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions, suggestions, or collaboration opportunities:
 - Open an issue on GitHub
-- Contact the project maintainer
-
----
-
-**Note:** This analysis demonstrates professional data science practices including experimental design, statistical rigor, and business-focused insights. The dataset represents a real A/B test scenario, providing valuable learning opportunities for experimental analysis in the gaming industry.
-
----
-
-<div align="center">
-
-**⭐ If you find this project helpful, please consider giving it a star! ⭐**
-
-Made with ❤️ for data science and analytics
-
-</div>
+- Contact me via my blog: [atabaknotes.com](https://atabaknotes.com)
